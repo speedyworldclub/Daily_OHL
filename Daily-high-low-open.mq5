@@ -255,4 +255,3 @@ string periodToString(int period)
             for(i=0;i<20;i++) if(period==_per[i]) break;
    return(_tfs[i]);   
 }
-
